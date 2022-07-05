@@ -1,0 +1,4 @@
+Name Evgenii
+Age 30
+Pet quantity 4
+Expected Sallary 100500
